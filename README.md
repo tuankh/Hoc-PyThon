@@ -1,1 +1,1 @@
-# H-c-PyThon
+# Hoc-PyThon
